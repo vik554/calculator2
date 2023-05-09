@@ -17,5 +17,9 @@ public class Calculator2 {
 
         double result = 0.0;
 
+
+    }
+    public static double add(double num1, double num2) {
+        return num1 + num2;
     }
 }
